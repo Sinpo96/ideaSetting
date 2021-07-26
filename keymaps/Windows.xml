@@ -3,4 +3,5 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="Terminal.SwitchFocusToEditor" />
 </keymap>
