@@ -1,7 +1,0 @@
-<keymap version="1" name="Windows 副本" parent="$default">
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
-  <action id="EditorSelectWord" />
-  <action id="Terminal.SwitchFocusToEditor" />
-</keymap>
